@@ -1,4 +1,6 @@
 # DaDu-E codes
+** Working-In-Progress**
+Fully codes will be coming soon.
 
 ## env formulation
 In the eval code, we set 4 actions as **goto**, **pick up**, **place** and **done**, you can follow action list in eval list to execute actions.
